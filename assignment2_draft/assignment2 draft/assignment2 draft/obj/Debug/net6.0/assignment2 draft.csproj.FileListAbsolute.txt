@@ -1,0 +1,51 @@
+D:\Sait\oop 2\assignment2 draft\assignment2 draft\bin\Debug\net6.0\assignment2 draft.exe
+D:\Sait\oop 2\assignment2 draft\assignment2 draft\bin\Debug\net6.0\assignment2 draft.deps.json
+D:\Sait\oop 2\assignment2 draft\assignment2 draft\bin\Debug\net6.0\assignment2 draft.runtimeconfig.json
+D:\Sait\oop 2\assignment2 draft\assignment2 draft\bin\Debug\net6.0\assignment2 draft.dll
+D:\Sait\oop 2\assignment2 draft\assignment2 draft\bin\Debug\net6.0\assignment2 draft.pdb
+D:\Sait\oop 2\assignment2 draft\assignment2 draft\obj\Debug\net6.0\assignment2 draft.csproj.AssemblyReference.cache
+D:\Sait\oop 2\assignment2 draft\assignment2 draft\obj\Debug\net6.0\assignment2_draft.Properties.Resources.resources
+D:\Sait\oop 2\assignment2 draft\assignment2 draft\obj\Debug\net6.0\assignment2 draft.csproj.GenerateResource.cache
+D:\Sait\oop 2\assignment2 draft\assignment2 draft\obj\Debug\net6.0\assignment2 draft.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sait\oop 2\assignment2 draft\assignment2 draft\obj\Debug\net6.0\assignment2 draft.AssemblyInfoInputs.cache
+D:\Sait\oop 2\assignment2 draft\assignment2 draft\obj\Debug\net6.0\assignment2 draft.AssemblyInfo.cs
+D:\Sait\oop 2\assignment2 draft\assignment2 draft\obj\Debug\net6.0\assignment2 draft.csproj.CoreCompileInputs.cache
+D:\Sait\oop 2\assignment2 draft\assignment2 draft\obj\Debug\net6.0\assignment2 draft.dll
+D:\Sait\oop 2\assignment2 draft\assignment2 draft\obj\Debug\net6.0\refint\assignment2 draft.dll
+D:\Sait\oop 2\assignment2 draft\assignment2 draft\obj\Debug\net6.0\assignment2 draft.pdb
+D:\Sait\oop 2\assignment2 draft\assignment2 draft\obj\Debug\net6.0\assignment2 draft.genruntimeconfig.cache
+D:\Sait\oop 2\assignment2 draft\assignment2 draft\obj\Debug\net6.0\ref\assignment2 draft.dll
+C:\Users\Nico\Downloads\assignment2_draft\assignment2 draft\assignment2 draft\obj\Debug\net6.0\assignment2 draft.csproj.AssemblyReference.cache
+C:\Users\Nico\Downloads\assignment2_draft\assignment2 draft\assignment2 draft\obj\Debug\net6.0\assignment2_draft.Properties.Resources.resources
+C:\Users\Nico\Downloads\assignment2_draft\assignment2 draft\assignment2 draft\obj\Debug\net6.0\assignment2 draft.csproj.GenerateResource.cache
+C:\Users\Nico\Downloads\assignment2_draft\assignment2 draft\assignment2 draft\obj\Debug\net6.0\assignment2 draft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nico\Downloads\assignment2_draft\assignment2 draft\assignment2 draft\obj\Debug\net6.0\assignment2 draft.AssemblyInfoInputs.cache
+C:\Users\Nico\Downloads\assignment2_draft\assignment2 draft\assignment2 draft\obj\Debug\net6.0\assignment2 draft.AssemblyInfo.cs
+C:\Users\Nico\Downloads\assignment2_draft\assignment2 draft\assignment2 draft\obj\Debug\net6.0\assignment2 draft.csproj.CoreCompileInputs.cache
+C:\Users\Nico\Downloads\assignment2_draft\assignment2 draft\assignment2 draft\obj\Debug\net6.0\assignment2 draft.dll
+C:\Users\Nico\Downloads\assignment2_draft\assignment2 draft\assignment2 draft\obj\Debug\net6.0\refint\assignment2 draft.dll
+C:\Users\Nico\Downloads\assignment2_draft\assignment2 draft\assignment2 draft\obj\Debug\net6.0\assignment2 draft.pdb
+D:\Download\assignment2_draft\assignment2_draft\assignment2 draft\assignment2 draft\bin\Debug\net6.0\assignment2 draft.exe
+D:\Download\assignment2_draft\assignment2_draft\assignment2 draft\assignment2 draft\bin\Debug\net6.0\assignment2 draft.deps.json
+D:\Download\assignment2_draft\assignment2_draft\assignment2 draft\assignment2 draft\bin\Debug\net6.0\assignment2 draft.runtimeconfig.json
+D:\Download\assignment2_draft\assignment2_draft\assignment2 draft\assignment2 draft\bin\Debug\net6.0\assignment2 draft.dll
+D:\Download\assignment2_draft\assignment2_draft\assignment2 draft\assignment2 draft\bin\Debug\net6.0\assignment2 draft.pdb
+D:\Download\assignment2_draft\assignment2_draft\assignment2 draft\assignment2 draft\obj\Debug\net6.0\assignment2 draft.csproj.AssemblyReference.cache
+D:\Download\assignment2_draft\assignment2_draft\assignment2 draft\assignment2 draft\obj\Debug\net6.0\assignment2_draft.Properties.Resources.resources
+D:\Download\assignment2_draft\assignment2_draft\assignment2 draft\assignment2 draft\obj\Debug\net6.0\assignment2 draft.csproj.GenerateResource.cache
+D:\Download\assignment2_draft\assignment2_draft\assignment2 draft\assignment2 draft\obj\Debug\net6.0\assignment2 draft.GeneratedMSBuildEditorConfig.editorconfig
+D:\Download\assignment2_draft\assignment2_draft\assignment2 draft\assignment2 draft\obj\Debug\net6.0\assignment2 draft.AssemblyInfoInputs.cache
+D:\Download\assignment2_draft\assignment2_draft\assignment2 draft\assignment2 draft\obj\Debug\net6.0\assignment2 draft.AssemblyInfo.cs
+D:\Download\assignment2_draft\assignment2_draft\assignment2 draft\assignment2 draft\obj\Debug\net6.0\assignment2 draft.csproj.CoreCompileInputs.cache
+D:\Download\assignment2_draft\assignment2_draft\assignment2 draft\assignment2 draft\obj\Debug\net6.0\assignment2 draft.dll
+D:\Download\assignment2_draft\assignment2_draft\assignment2 draft\assignment2 draft\obj\Debug\net6.0\refint\assignment2 draft.dll
+D:\Download\assignment2_draft\assignment2_draft\assignment2 draft\assignment2 draft\obj\Debug\net6.0\assignment2 draft.pdb
+D:\Download\assignment2_draft\assignment2_draft\assignment2 draft\assignment2 draft\obj\Debug\net6.0\assignment2 draft.genruntimeconfig.cache
+D:\Download\assignment2_draft\assignment2_draft\assignment2 draft\assignment2 draft\obj\Debug\net6.0\ref\assignment2 draft.dll
+C:\Users\Nico\Downloads\assignment2_draft\assignment2 draft\assignment2 draft\bin\Debug\net6.0\assignment2 draft.exe
+C:\Users\Nico\Downloads\assignment2_draft\assignment2 draft\assignment2 draft\bin\Debug\net6.0\assignment2 draft.deps.json
+C:\Users\Nico\Downloads\assignment2_draft\assignment2 draft\assignment2 draft\bin\Debug\net6.0\assignment2 draft.runtimeconfig.json
+C:\Users\Nico\Downloads\assignment2_draft\assignment2 draft\assignment2 draft\bin\Debug\net6.0\assignment2 draft.dll
+C:\Users\Nico\Downloads\assignment2_draft\assignment2 draft\assignment2 draft\bin\Debug\net6.0\assignment2 draft.pdb
+C:\Users\Nico\Downloads\assignment2_draft\assignment2 draft\assignment2 draft\obj\Debug\net6.0\assignment2 draft.genruntimeconfig.cache
+C:\Users\Nico\Downloads\assignment2_draft\assignment2 draft\assignment2 draft\obj\Debug\net6.0\ref\assignment2 draft.dll
